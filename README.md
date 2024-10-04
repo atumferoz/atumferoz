@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdxYW53cnpwNjR4dzNvcnA2Z3k2bmNjd2s1NzN5Nm45OGx3dDlhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.webp" width="100"/>
+</div>
+
 ---
 
 ### :woman_technologist: About Me : 
