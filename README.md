@@ -2,7 +2,8 @@
 
 ---
 
-### :woman_technologist: About Me : I'm a network and computer systems engineering student, welcome to my github! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :woman_technologist: About Me : 
+I'm a network and computer systems engineering student, welcome to my github! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
