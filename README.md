@@ -8,6 +8,7 @@
 
 ### :woman_technologist: About Me : 
 I'm a network and computer systems engineering student, welcome to my github! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Most of my repositories are just school work and me trying to learn as much as possible:) please feel free to give any input I'll be happy to hear
 
 ---
 
